@@ -1,0 +1,22 @@
+{
+  "posts":[
+      {
+        "id": 1,
+        "title": "My First Post",
+        "datetime": "July 01, 2025 11:17:36 AM",
+        "body": "My Marriage with my Alagi"
+      },
+      {
+        "id": 2,
+        "title": "My second Post",
+        "datetime": "September 01, 2025 11:17:36 AM",
+        "body": "My Anniversary with my Alagi"
+      },
+      {
+        "id": 3,
+        "title": "My Third Post",
+        "datetime": "December 04, 2025 11:17:36 AM",
+        "body": "My Alagi's BirthDay"
+      }
+    ]
+}
